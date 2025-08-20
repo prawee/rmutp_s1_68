@@ -2,6 +2,13 @@
 
 Prawee Wongsa
 
+## Required
+- Git
+- Docker & Docker Compose
+- PostgreSQL
+- Node.js
+- Prisma
+
 ## Running
 ### Database
 ```
