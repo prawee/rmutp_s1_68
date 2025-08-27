@@ -1,12 +1,13 @@
 {
   "scripts": {
-    "build": "tsc app/server.ts --outDir dist"
+    "build": "tsc"
   },
   "dependencies": {
     "@hono/node-server": "^1.19.0",
     "@prisma/client": "^6.13.0",
     "hono": "^4.9.2",
     "prisma": "^6.13.0",
-    "ts-node": "^10.9.2"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
   }
 }
